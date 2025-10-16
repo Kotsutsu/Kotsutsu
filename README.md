@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kotsutsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kotsutsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
 
 
 <br>
