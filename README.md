@@ -7,19 +7,19 @@
 
 <div style="display: flex; align-items: center;">
   <a style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&layout=donut&theme=gotham" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotsutsu&layout=donut&theme=gotham" alt="Top Langs" />
   </a>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=gotham"
+      srcset="https://github-readme-stats.vercel.app/api?username=Kotsutsu&show_icons=true&theme=gotham"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Kotsutsu&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kotsutsu&show_icons=true" />
   </picture>
   
 
